@@ -1,0 +1,5 @@
+httpx==0.27.0
+websockets==12.0
+python-telegram-bot==21.3
+scipy==1.13.0
+python-dotenv==1.0.1
